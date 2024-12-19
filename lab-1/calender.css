@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .main-heading {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  .description {
+    text-align: center;
+    font-size: 1em;
+    margin-bottom: 30px;
+  }
+  
+  .sub-heading {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: #444;
+  }
+  
+  .program-title {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
+  .calendar-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .calendar-list li {
+    margin-bottom: 10px;
+  }
+  
+  .calendar-list a {
+    text-decoration: none;
+    color: #007BFF;
+    transition: color 0.3s ease;
+  }
+  
+  .calendar-list a:hover {
+    color: #0056b3;
+  }
+  
